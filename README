@@ -1,0 +1,13 @@
+# OpenXLA Triton Fork
+
+This repository contains a fork of Triton for use by the OpenXLA Project.
+
+The purpose of this fork is to keep Triton up-to-date with the latest LLVM
+version.
+We will seek to stay aligned with the upstream community for substantive work with it.
+Currently, for LLVM compatibility and stability reasons this fork is mirroring
+pre-MLIR Triton, but we seek to switch shortly.
+
+This repository will not accept PRs or issues. These
+should be directed upstream instead. Contact the OpenXLA team for questions
+about this fork.
